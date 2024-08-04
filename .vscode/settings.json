@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Introduction to GeoPandas/intro_to_"
+    ]
+}
